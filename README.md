@@ -8,7 +8,7 @@ The objective of this toolkit is to demonstrate how Artificial Intelligence, Ana
 
 | # | Component | Category | Description | Status |
 |---|---|---|---|---|
-| 1 | AI-Enabled Investigator Copilot | Prototype | Alert summarisation, investigator guidance and case documentation support | Concept |
+| 1 | AI-Enabled Investigator Copilot | Prototype | Alert summarisation, investigator guidance and case documentation support | V1-V3 Complete |
 | 2 | AML Alert Triage Prototype | Prototype | Risk scoring, alert prioritisation and investigator workflow support | Built |
 | 3 | Financial Crime Risk Typology Library | Intelligence | Structured catalogue of AML, TBML, Correspondent Banking and Capital Markets risk scenarios | Draft |
 | 4 | Financial Crime Network Analytics | Analytics | Entity resolution, beneficial ownership and hidden relationship analysis | Planned |
