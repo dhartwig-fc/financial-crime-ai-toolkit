@@ -22,7 +22,7 @@ The toolkit is structured as a collection of interconnected repositories that co
 | 2 | AML Alert Triage Prototype | Analytics | Risk scoring, alert prioritisation and investigator workflow support | Built |
 | 3 | Financial Crime Risk Typology Library | Intelligence | Structured catalogue of AML, TBML, Correspondent Banking, Capital Markets and Network Intelligence typologies | Active Development |
 | 4 | Financial Crime Network Intelligence Library | Analytics | Entity resolution, beneficial ownership, relationship discovery and graph analytics investigation patterns | Active Development |
-| 5 | Correspondent Banking Analytics Toolkit | Analytics | Payment flows, sanctions exposure and nested relationship analysis | Planned |
+| 5 | Correspondent Banking Analytics Toolkit | Analytics | Payment flows, sanctions exposure and nested relationship analysis | Foundation Complete|
 | 6 | Trade Finance & TBML Analytics Toolkit | Analytics | Trade-based money laundering detection and trade pattern analysis | Active Development |
 | 7 | Capital Markets Surveillance Toolkit | Analytics | Market abuse, insider dealing and surveillance analytics concepts | Planned |
 | 8 | AI Governance Framework for AML Operations | Governance | Governance, controls, explainability and AI risk management framework | Draft |
