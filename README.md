@@ -122,7 +122,7 @@ The toolkit is structured as a collection of interconnected repositories that co
 | ✅ Complete | Portfolio Website |
 | ✅ Complete | Transformation Toolkit |
 | 🚧 In Progress | Network Intelligence Library |
-| 🚧 Planned | TBML Analytics Toolkit |
+| 🚧 In Progress | TBML Analytics Toolkit |
 | Planned | Correspondent Banking Analytics Toolkit |
 | Planned | Capital Markets Surveillance Toolkit |
 | Planned | AI Governance Framework |
