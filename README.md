@@ -319,7 +319,7 @@ Emerging Threat Intelligence provides the strategic input into the transformatio
 | fc-02-transformation-toolkit | Transformation and delivery framework |
 | fc-03-network-intelligence-library | Network analytics and investigation frameworks |
 | fc-04-tbml-analytics-toolkit | Trade analytics and TBML typologies |
-| fc-05-sanctions-exposure-analytics-toolkit | Sanctions exposure analytics |
+| fc-05-sanctions-exposure-analytics-toolkit | Evasion detection, ownership analytics, maritime intelligence |
 | fc-06-corresponding-banking-analytics-toolkit | Correspondent banking analytics |
 | fc-07-capital-markets-analytics-toolkit | Capital Markets and surviellance analytics |
 | fc-08-emerging-threat-intelligence | Horizon scanning and threat intelligence |
